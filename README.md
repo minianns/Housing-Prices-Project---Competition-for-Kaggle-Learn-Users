@@ -7,9 +7,9 @@ House Prices - Advanced Regression Techniques
 ## 2. Problem Statement or Research Question
 </br>
 ❓ Research Questions : 
-* Can more refined feature engineering and model tuning improve prediction accuracy and achieve a higher Kaggle ranking?
-* How can we build a machine learning model to accurately predict house prices?
-* What are the most influential factors affecting house prices?
+1. Can more refined feature engineering and model tuning improve prediction accuracy and achieve a higher Kaggle ranking?
+2. How can we build a machine learning model to accurately predict house prices?
+3. What are the most influential factors affecting house prices?
 
 💡 (I have previously worked on this competition in a group project, where the score was only about R² ≈ 0.92, and the Kaggle Leaderboard performance was average. Some tasks such as EDA were completed by my teammates. This time, I want to complete it independently, optimize the process, and gain a deeper understanding of models like Random Forest and XGBoost, or possibly explore other better-performing models. By doing this, I can sharpen my skills within a limited timeframe, work more efficiently, and deliver a higher-quality side project.)
 
