@@ -1,15 +1,14 @@
 # Housing-Prices-Project-Competition-for-Kaggle-Learn-Users
-</br>
 
 ## 1. Project Title
-House Prices - Advanced Regression Techniques
+📊 House Prices - Advanced Regression Techniques
 
 ## 2. Problem Statement or Research Question
 </br>
 ❓ Research Questions :</br>
 1. Can more refined feature engineering and model tuning improve prediction accuracy and achieve a higher Kaggle ranking?</br>
 2. How can we build a machine learning model to accurately predict house prices?</br>
-3. What are the most influential factors affecting house prices?</br>
+3. What are the most influential factors affecting house prices?</br></br>
 
 💡 (I have previously worked on this competition in a group project, where the score was only about R² ≈ 0.92, and the Kaggle Leaderboard performance was average. Some tasks such as EDA were completed by my teammates. This time, I want to complete it independently, optimize the process, and gain a deeper understanding of models like Random Forest and XGBoost, or possibly explore other better-performing models. By doing this, I can sharpen my skills within a limited timeframe, work more efficiently, and deliver a higher-quality side project.)</br>
 
@@ -22,11 +21,12 @@ Independently conduct and optimize Exploratory Data Analysis (EDA) for deeper in
 3. Apply hyperparameter tuning to improve performance</br>
 The final results will be submitted to the Kaggle Leaderboard, with comparisons and evaluations of different models.
 
-## 4. Data Source(s)
-Kaggle Competition : Housing Prices Competition for Kaggle Learn Users</br>
+## 4. Data Source
+📂 Kaggle Competition : Housing Prices Competition for Kaggle Learn Users</br>
 https://www.kaggle.com/competitions/home-data-for-ml-course
 
 ## 5. Tools & Technologies
+🛠 Tools & Technologies</br>
 1. Python (pandas, numpy, matplotlib, seaborn)</br>
 2. scikit-learn (regression models, cross-validation, evaluation metrics)</br>
 3. XGBoost / LightGBM</br>
@@ -35,6 +35,7 @@ https://www.kaggle.com/competitions/home-data-for-ml-course
 6. GitHub (for version control and project documentation)
 
 ## 6. Planned Workflow / Methods
+⚙️ Workflow / Methods</br>
 1. Data preprocessing (missing values, encoding, scaling)</br>
 2. Exploratory Data Analysis (EDA) – visualization and feature insights</br>
 3. Feature engineering (create new variables such as HouseAge, RemodAge, TotalSF)</br>
